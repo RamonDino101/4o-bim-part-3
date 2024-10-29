@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é Ciência?',
+    'Ciência é um esforço rigoroso e sistemático que constrói e organiza o conhecimento na forma de explicações e previsões testáveis sobre o mundo.'
 )
 
 criaCartao(
